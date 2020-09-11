@@ -1,2 +1,2 @@
 # Projeto inicial
- Primeiro repositório
+ Primeiro repositório \o/
